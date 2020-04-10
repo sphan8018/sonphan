@@ -1,0 +1,40 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <title>Son Phan Internship at the Department of the Treasury</title>
+  <script src="jquery.min.js"></script>
+</head>
+
+<body style="background-image: url('logo.png');">
+  <link href='styles.css' rel='stylesheet' type='text/css'>
+
+  <div class="navbar">
+    <ul class="navbar-container">
+
+    <li>  <a href="#" class=" nav-button brand-logo" ><h3>THE DEPARTMENT OF THE TREASURY</h3></a></li> 
+
+      <li class="nav-item"><a href="#section-3" class="left-underline nav-button"  href="contact.html">CONTACT</a></li>
+      <li class="nav-item"><a href="#section-2" class="left-underline nav-button" href="resume.html">RESUME</a></li>
+      <li class="nav-item active"><a href="#section-1" class="left-underline nav-button" href="work.html">WORK</a></li>
+      <li class="nav-item"><a href="#section-3" class="left-underline nav-button"  href="main.html">HOME</a></li>
+    </ul>
+  </div>
+<div align="center">
+      <h3> How to find Degital Team office </h4>
+      <img src="1750map.png" alt="treasurybuilding"  width="1000"
+     height="341">
+ 
+</div>
+<br>
+<br>
+
+     
+
+ <div class="footer-copyright">
+      
+      <p >  Son Phan Web was designed in Spring 2020  </p> 
+</body>
+</html>
+  

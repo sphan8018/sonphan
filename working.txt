@@ -1,0 +1,117 @@
+<!doctype html>
+
+<html>
+
+<head>
+  <title>Work</title>
+  <script src="jquery.min.js"></script>
+</head>
+
+<body style="background-image: url('logo.png');">
+  <link href='styles.css' rel='stylesheet' type='text/css'>
+
+  <div class="navbar">
+    <ul class="navbar-container">
+
+    <li>  <a href="#" class=" nav-button brand-logo" ><h3>THE DEPARTMENT OF THE TREASURY</h3></a></li> 
+
+      <li class="nav-item"><a  class="left-underline nav-button"  href="contact.html">CONTACT</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button" href="resume.html">RESUME</a></li>
+      <li class="nav-item "><a  class="left-underline nav-button" href="work.html">WORK</a></li>
+      <li class="nav-item"><a  class="left-underline nav-button"  href="main.html">HOME</a></li>
+    </ul>
+  </div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+
+
+<div class="row" >
+     
+      
+       
+ </div>
+  <div class="row">
+    <div class="col-3">
+      
+
+
+ 
+ </div>
+    <div class="col-2" align="center">
+      
+    </div> 
+  </div>
+    <div class="container1">
+     
+    </div>
+
+
+ <div class="row">
+ <div class="container1">
+
+     
+</div>
+    <div class="col-1">
+<ul >
+      <h4>Content Management Systems (CMS)</h4>
+      <li ><h5> Drupal</h5></li>
+      <li ><h5> SharePoint 2013</h5></li>
+<h4>Dashboards-as-a-Service</h4>
+      <li ><h5> Tableau</h5></li>
+      <li ><h5> SalesForce</h5></li>
+<h4>Premium Support</h4>
+      <li ><h5> Extended Service Desk Hours</h5></li>
+      <li ><h5> Enhanced Service Desk Service Level Objectives</h5></li>
+<li ><h5>Custom Support</h5></li>
+
+
+
+
+</ul>
+    </div>
+    <div class="col-1" >
+<ul >
+      <h4>Enterprise File Sharing and Sync</h4>
+      <li ><h5>. FileCloud</h5></li>
+<li ><h5> Box.com</h5></li>
+<li ><h5> SharePoint 2013</h5></li>
+<li ><h5> Drupal Web CMS (also SaaS)</h5></li>
+<li ><h5> Survey Gizmo</h5></li>
+<li ><h5> Salesforce (also SaaS)</h5></li>
+<li ><h5> Dashboards-as-a-Service (also SaaS)</h5></li>
+</ul>
+    </div> 
+   <div class="col-1" >
+     <ul >
+     <h4> Content Maintenance</h4>
+      <li ><h5> Critical Release Support</h5></li>
+<li ><h5> Service Desk</h5></li>
+<li ><h5> 508 Accessibility</h5></li>
+<li ><h5> Site Usability</h5></li>
+<li ><h5> Survey Gizmo</h5></li>
+<li ><h5> Web Analytics </h5></li>
+   
+<h4>
+Application Lifecycle Management (ALM)</h4>
+      <li ><h5> 
+Atlassian Suite – JIRA, BitBucket, Bamboo and Confluence</h5></li>
+
+
+ 
+    </ul>
+    </div>
+  </div>
+     
+    </div>
+
+
+  
